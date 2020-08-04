@@ -13,3 +13,5 @@ buildNumber.properties
 # intellij project files
 .idea
 *.iml
+
+dist/
